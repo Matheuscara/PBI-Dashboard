@@ -1,0 +1,18 @@
+.Modal {
+    display: flex;
+}
+
+.right {
+    width: 50%;
+}
+
+.right img {
+    justify-Content: center;
+}
+
+.left {
+    width: 50%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+}

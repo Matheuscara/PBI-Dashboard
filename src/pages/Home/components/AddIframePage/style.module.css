@@ -1,0 +1,10 @@
+.AddIframe {
+    display: flex;
+    flex-Direction: column;
+    align-Items: center;
+}
+
+.title {
+    color: #2c2a46;
+    font-Weight: bold;
+}
